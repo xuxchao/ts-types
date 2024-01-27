@@ -1,0 +1,11 @@
+{
+	"name": "@xuxchao/ts-types",
+	"types": "index.d.ts",
+	"version": "1.0.0",
+	"author": {
+		"name": "xuxchao"
+	},
+	"devDependencies": {
+		"typescript": "^5.3.3"
+	}
+}
